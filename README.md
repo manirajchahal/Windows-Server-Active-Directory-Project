@@ -20,9 +20,4 @@ This repository serves as a step-by-step guide to creating and managing a Window
 ## Additional Resources
 
 - [Microsoft Documentation on Active Directory](https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-overview)
-- [PowerShell Scripts for AD Management](docs/sample-configuration.ps1)
-
----
-
-Happy learning and experimenting!
 
