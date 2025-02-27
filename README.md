@@ -1,6 +1,3 @@
-# Active-Directory-Project
-Repository showing how I learned Active Directory
-
 # Windows Server Active Directory Home Lab
 
 This repository documents a complete guide for setting up a Windows Server Active Directory Home Lab. The guide is based on a five‑episode video series and covers everything from initial server installation to advanced configuration and security hardening.
