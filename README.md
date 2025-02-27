@@ -4,11 +4,11 @@ This repository documents a complete guide for setting up a Windows Server Activ
 
 ## Table of Contents
 
-1. [Episode 1: Home Lab Setup & Initial Active Directory Installation](docs/Episode1_Setup.md)
-2. [Episode 2: Creating Users, Groups, and Organizational Units](docs/Episode2_Users_Groups.md)
-3. [Episode 3: Domain Management & Group Policy Setup](docs/Episode3_Domain_GroupPolicy.md)
-4. [Episode 4: Advanced Configuration & Security Hardening](docs/Episode4_Advanced_Config.md)
-5. [Episode 5: Recap, Troubleshooting, and Next Steps](docs/Episode5_Recap_NextSteps.md)
+1. [Step 1: Home Lab Setup & Initial Active Directory Installation](docs/Step1_Setup.md)
+2. [Step 2: Creating Users, Groups, and Organizational Units](docs/Step2_Users_Groups.md)
+3. [Step 3: Domain Management & Group Policy Setup](docs/Step3_Domain_GroupPolicy.md)
+4. [Step 4: Advanced Configuration & Security Hardening](docs/Step4_Advanced_Config.md)
+5. [Step 5: Recap, Troubleshooting, and Next Steps](docs/Step5_Recap_NextSteps.md)
 
 ## Overview
 
