@@ -7,7 +7,7 @@ This repository documents a complete guide for setting up a Windows Server Activ
 1. [Step 1: Home Lab Setup & Initial Active Directory Installation](docs/Step1_Setup.md)
 2. [Step 2: Creating Users, Groups, and Organizational Units](docs/Step2_Users_Groups.md)
 3. [Step 3: File Services, NTFS Permissions, and Shared Drives Setup](docs/Step3_Files_Drives.md)
-4. [Step 4: Recap, Troubleshooting, and Next Steps](docs/Step4_Recap_NextSteps.md)
+4. [Step 4: Joining User to Domain](docs/Step4_Joining_Users.md)
 
 ## Overview
 
