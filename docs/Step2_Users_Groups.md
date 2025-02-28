@@ -4,8 +4,6 @@
 
 In this step, the focus is on centralizing control of your Active Directory environment by creating and configuring Group Policy Objects (GPOs) using the Group Policy Management Console (GPMC). This guide outlines each step taken to establish policies that enforce security settings, desktop configurations, and other operational standards across the domain.
 
-## Detailed Steps
-
 ### Section 1: Accessing the Group Policy Management Console (GPMC)
 - **Objective:**  
   Open and familiarize yourself with the GPMC to manage GPOs effectively.
