@@ -8,8 +8,6 @@ In this step, we focus on setting up file services to manage and secure shared f
 - Differentiating between mapped drives and network drives, along with configuration methods.
 - Installing File Server Resource Manager (FSRM) and using it to set up quotas and file screens to enforce storage limits and file type restrictions.
 
-## Detailed Steps
-
 ### Section 1: Installing File Services and File Server Resource Manager (FSRM)
 - **Objective:**  
   Ensure that the file services role and FSRM are installed to manage file shares, quotas, and file screens.
