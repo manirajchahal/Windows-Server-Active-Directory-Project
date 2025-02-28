@@ -17,3 +17,6 @@ This repository serves as a step-by-step guide to creating and managing a Window
 
 - [Microsoft Documentation on Active Directory](https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-overview)
 
+## Incoming Changed
+
+Adding screenshots along the way in order to further demonstrate the process of building the Windows Server Active Directory.
