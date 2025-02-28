@@ -51,7 +51,7 @@ In this first section, I installed Windows Server 2022 and install Active Direct
      - Completed the wizard and rebooted the server.
      - Logged in to confirm the domain controller status.
     
-  ### Section 4: Organizational Unit (OU) and Group/User Structure Setup (Graphical Interface)
+  ### Section 4: Organizational Unit (OU) and Group/User Structure Setup:
 - **Objective:**  
   Build a detailed Active Directory structure using the Windows Server 2022 graphical interface.
 - **Steps Taken:**
@@ -67,7 +67,7 @@ In this first section, I installed Windows Server 2022 and install Active Direct
      - Create three OUs within each geographic container named "Users", "Computers", and "Servers".
      - Confirm that each new OU appears under the respective geographic OU.
   
-  3. **Setting Up Departmental Groups via the GUI:**
+  3. **Setting Up Departmental Groups:**
      - Within the appropriate **Users** OU (for example, under USA), right-click and select **New** → **Group**.
      - In the Group dialog box, enter a departmental group name (e.g., "IT - Security") and choose **Global** as the group scope and **Security** as the group type.
      - Click **OK** to create the group.
@@ -77,7 +77,7 @@ In this first section, I installed Windows Server 2022 and install Active Direct
        - Enter the department name with an indicator (e.g., "IT - Distribution"), choose **Global** for scope, and select **Distribution** for the group type.
        - Repeat for HR, Accounting, Admissions, and Management.
   
-  4. **Adding Users Through the Graphical Interface:**
+  4. **Adding Users:**
      - In the appropriate **Users** OU (e.g., under USA), right-click and select **New** → **User**.
      - Complete the New Object – User wizard by entering the first name, last name, and user logon name.
      - Set a temporary password, and choose the configuration option such as changing password on first log-in.
