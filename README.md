@@ -1,6 +1,6 @@
 # Windows Server Active Directory Home Lab
 
-This repository documents a complete guide for setting up a Windows Server Active Directory Home Lab. The guide is based on a five‑episode video series and covers everything from initial server installation to advanced configuration and security hardening.
+This repository documents a complete guide for setting up a Windows Server Active Directory Home Lab. The guide is based on my Windows Active Directory Server and covers everything from initial server installation to advanced configuration and security hardening.
 
 ## Table of Contents
 
