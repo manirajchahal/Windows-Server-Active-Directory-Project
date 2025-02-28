@@ -1,4 +1,4 @@
-# Episode 1: Home Lab Setup & Initial Active Directory Installation
+# Step 1: Home Lab Setup & Initial Active Directory Installation
 
 ## Overview
 
