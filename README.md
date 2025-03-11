@@ -11,7 +11,7 @@ This repository documents a complete guide for setting up a Windows Server Activ
 
 ## Overview
 
-This repository serves as a step-by-step guide to creating and managing a Windows Server Active Directory environment within a home lab setting. Each episode builds on the previous one, ensuring a gradual and comprehensive learning process.
+This repository serves as a step-by-step guide to creating and managing a Windows Server Active Directory environment within a home lab setting. Each step builds on the previous one, ensuring a gradual and comprehensive learning process.
 
 ## Additional Resources
 
